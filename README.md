@@ -1,1 +1,1 @@
-# genera-pwd
+# Genera Password semplici o complesse
